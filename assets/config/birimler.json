@@ -1,0 +1,5 @@
+[
+  { "id": "adet", "label": "Adet" },
+  { "id": "mtul", "label": "Metretül" },
+  { "id": "mkare", "label": "Metrekare" }
+]
