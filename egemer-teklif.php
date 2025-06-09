@@ -2,7 +2,7 @@
 /*
 Plugin Name: Egemer Teklif ve Ürün Yönetimi
 Description: Müşterilerinizin web sitenizden, ürün gruplarınıza özgü marka, renk, işçilik, kategori, süpürgelik yüksekliği, eviye tipi gibi seçimlerle çok adımlı ve yönetilebilir bir teklif talep formunu kolayca doldurabilmesini sağlar. Tüm içerikler admin panelinden yönetilebilir ve dinamik olarak güncellenir.
-Version: 1.9.1
+Version: 1.9.2
 Author: Ercan CEVİZ (info@ercanceviz.com.tr)
 Author URI: https://ercanceviz.com.tr
 Requires at least: 6.0

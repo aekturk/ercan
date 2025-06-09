@@ -1,6 +1,6 @@
 # Egemer Teklif Formu Plugini
 
-**Plug-in Version:** 1.8.1  
+**Plug-in Version:** 1.9.2  
 **Minimum PHP Gereksinimi:** 7.2+  
 **Minimum WordPress Gereksinimi:** 5.5+  
 
@@ -25,7 +25,7 @@ Müşterilerinizin web sitenizden, ürün gruplarınıza özgü marka, renk, iş
 
 ## Kurulum
 
-1. Tüm plug-in dosyalarını `wp-content/plugins/egemer-teklif-ve-urun-yonetimi/` altına yükleyin.
+1. Tüm plug-in dosyalarını `wp-content/plugins/egemer-teklif` altına yükleyin.
 2. Yönetici panelinden eklentiyi aktif edin.
 3. Veritabanı tabloları otomatik olarak oluşturulmaz, ilk kurulumda admin panelinden örnek veri ekleyin veya tablo yapısını aşağıdan inceleyin.
 4. Formu göstermek için herhangi bir sayfaya `[egemer_teklif_form]` shortcode’unu ekleyin.
